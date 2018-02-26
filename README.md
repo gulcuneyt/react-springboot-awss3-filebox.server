@@ -1,5 +1,5 @@
 
-##FileBox Server Demo Application
+## FileBox Server Demo Application
 
 FileBox is a demo application. This repo is the server side of the application. You can download client side project from  [client side](https://github.com/clientside) link
 
@@ -7,7 +7,7 @@ It is a spring boot project that enables managing users and files on [Amazon S3 
 
 You need [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) or newer version and [Maven 3](https://maven.apache.org/download.cgi) or newer version
 
-###Technologies
+### Technologies
 
 * Java 8 or later
 * Maven 3 or later
@@ -15,7 +15,7 @@ You need [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-d
 * Amazon S3 Cloud Services
 * Spring Boot Maven plugin
 
-###Set up Amazon S3
+### Set up Amazon S3
 
 **1. Sign up**
 
@@ -46,7 +46,7 @@ press Download .csv for {Access key ID, Secret access key}.
 Copy file ~/.aws/credentials on Linux, macOS, or Unix, or at C:\Users\USERNAME \.aws\credentials on Windows. 
 Click [here](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html) for manual.
 
-###Run the Application
+### Run the Application
 
 The Spring Boot Maven plugin includes a run goal to compile and run your application. 
 
