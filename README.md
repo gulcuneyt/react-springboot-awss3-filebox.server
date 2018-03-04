@@ -13,6 +13,7 @@ You need [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-d
 * Maven 3 or later
 * Spring Boot 1.5.10
 * Amazon S3 Cloud Services
+* Spring Restful Services
 * Spring Boot Maven plugin
 
 ### Set up Amazon S3
